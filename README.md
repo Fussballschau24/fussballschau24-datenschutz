@@ -1,0 +1,2 @@
+# fussballschau24-datenschutz
+Datenschutzerklärung für Fussballschau24
